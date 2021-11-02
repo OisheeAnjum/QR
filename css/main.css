@@ -28,6 +28,12 @@ a.btn.btn-success {
     border-color: #f8fbff;
     color:black;
 }
+a.btn.btn-success:hover
+{
+  background-color: #000000;
+  border-color: #f8fbff;
+  color: #fefefe;
+}
 .btn-primary {
     color: rgb(0, 0, 0);
     background-color: rgb(255, 193, 0);
@@ -35,6 +41,10 @@ a.btn.btn-success {
     display: block;
     width: fit-content;
   
+}
+.btn-primary:hover
+{
+background-color: #000000;
 }
 
 
@@ -74,7 +84,7 @@ input[type=text], input[type=password],input[type=text] {
   button:hover {
     opacity: 0.8;
     background-color: rgb(0, 0, 0);
-    color: rgb(255, 255, 255);
+    color: rgb(124, 124, 124)
   }
   
   /* Extra styles for the cancel button */
@@ -246,7 +256,8 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: #eeff00;
+  background-color: #000000;
+  color: rgb(255, 255, 255);
 }
 
 button.tablinks {
@@ -281,4 +292,8 @@ button.tablinks {
     width: 100%;
     margin-top: 0;
   }
+}
+a#modal {
+  color: black;
+  background-color: #ffc107;
 }

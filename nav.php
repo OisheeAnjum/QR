@@ -32,11 +32,11 @@
         </nav> 
  <div id="id01" class="modal">
 
-                        <form class="modal-content animate" action="/action_page.php" method="post">
+                        <form class="modal-content animate"  action="/action_page.php" method="post">
                           <div class="imgcontainer">
                             <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
                           
-                            <a class="navbar-brand" href="#!">Shob<span>job</span></a>
+                            <a class="navbar-brand" id="modal" href="#!">QR<span>Generator</span></a>
                           </div>
                       
                           <div class="c1">
@@ -68,7 +68,7 @@
                           <div class="imgcontainer">
                             <span onclick="document.getElementById('id02').style.display='none'" class="close" title="Close Modal">&times;</span>
                          
-                            <a class="navbar-brand" href="#!">Shob<span>job</span></a>
+                            <a class="navbar-brand" id="modal" href="#!">QR<span>Generator</span></a>
                           </div>
                       
                           <div class="c1">

@@ -36,9 +36,7 @@
                                     <div class="col-md-9">
                                         <p>
                                             <b>URL </b> <br>
-                                            Position: Sr. Manager <br>
-                                            Type: Full Time <br>
-                                            Vacancy: 2
+                                            All The Tools You'll Need To Be More Potential And Work Smart
                                         </p>
                                     
                                     </div>
@@ -47,7 +45,7 @@
                             </a>
                         </div>
                         <div class="col-lg-4 col-xxl-4 mb-5">
-                            <a class="nav-link" href="index.html">
+                            <a class="nav-link" href="generate.php">
                             <div class="card bg-light" >
                                 
                                 <div class="row">
@@ -57,9 +55,7 @@
                                     <div class="col-md-9">
                                         <p>
                                             <b>Text </b> <br>
-                                            Position: Sr. Manager <br>
-                                            Type: Full Time <br>
-                                            Vacancy: 2
+                                            All The Tools You'll Need To Be More Potential And Work Smart
                                         </p>
                                     
                                     </div>
@@ -68,7 +64,7 @@
                         </a>
                         </div>
                         <div class="col-lg-4 col-xxl-4 mb-5">
-                            <a class="nav-link" href="index.html">
+                            <a class="nav-link" href="generate.php">
                             <div class="card bg-light" >
                                 
                                 <div class="row">
@@ -78,9 +74,7 @@
                                     <div class="col-md-9">
                                         <p>
                                             <b>E-mail </b> <br>
-                                            Position: Sr. Manager <br>
-                                            Type: Full Time <br>
-                                            Vacancy: 2
+                                            All The Tools You'll Need To Be More Potential And Work Smart
                                         </p>
                                     
                                     </div>
@@ -89,7 +83,7 @@
                             </a>
                         </div>
                         <div class="col-lg-4 col-xxl-4 mb-5">
-                            <a class="nav-link" href="index.html">
+                            <a class="nav-link" href="generate.php">
                             <div class="card bg-light" >
                                 
                                 <div class="row">
@@ -108,7 +102,7 @@
                             </a>
                         </div>                        
                         <div class="col-lg-4 col-xxl-4 mb-5">
-                            <a class="nav-link" href="index.html">
+                            <a class="nav-link" href="generate.php">
                             <div class="card bg-light" >
                                 
                                 <div class="row">
@@ -127,7 +121,7 @@
                             </a>
                         </div>                        
                         <div class="col-lg-4 col-xxl-4 mb-5">
-                            <a class="nav-link" href="index.html">
+                            <a class="nav-link" href="generate.php">
                             <div class="card bg-light" >
                                 
                                 <div class="row">
@@ -137,9 +131,7 @@
                                     <div class="col-md-9">
                                         <p>
                                             <b>sms </b> <br>
-                                            Position: Sr. Manager <br>
-                                            Type: Full Time <br>
-                                            Vacancy: 2
+                                            All The Tools You'll Need To Be More Potential And Work Smart
                                         </p>
                                     
                                     </div>
