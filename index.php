@@ -26,7 +26,7 @@
                     <!-- Page Features-->
                     <div class="row gx-lg-5">
                         <div class="col-lg-4 col-xxl-4 mb-5">
-                            <a class="nav-link" href="index.html">
+                            <a class="nav-link" href="generate.php">
                             <div class="card bg-light" >
                                 
                                 <div class="row">
